@@ -1,2 +1,2 @@
 Software Engineering Method
-Update README Lab2
+Update README 
