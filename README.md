@@ -5,4 +5,6 @@ Update README
 
 [![LICENSE](https://img.shields.io/github/license/40870386-HtetAungLin/sem.svg?style=flat-square)]
 
-([![Releases](https://img.shields.io/github/release/40870386-HtetAungLin/sem/all.svg?style=flat-square)](https://github.com/40858562-YuYaKyaw/sem/releases))
+([![Releases](https://img.shields.io/github/release/40870386-HtetAungLin/sem/all.svg?style=flat-square)](https://github.com/40870386-HtetAungLin/sem/releases))
+
+[![Master Build Status](https://img.shields.io/badge/Master%20Build%20Status-build%20passing-brightgreen)]((https://github.com/40870386-HtetAungLin/sem/tree/master))
