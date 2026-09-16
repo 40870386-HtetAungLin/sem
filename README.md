@@ -8,3 +8,5 @@ Update README
 ([![Releases](https://img.shields.io/github/release/40870386-HtetAungLin/sem/all.svg?style=flat-square)](https://github.com/40870386-HtetAungLin/sem/releases))
 
 [![Master Build Status](https://img.shields.io/badge/Master%20Build%20Status-build%20passing-brightgreen)]((https://github.com/40870386-HtetAungLin/sem/tree/master))
+
+[![Develop Build Status](https://img.shields.io/badge/Develop%20Build%20Status-build%20passing-brightgreen)]((https://github.com/40870386-HtetAungLin/sem/tree/develop))
